@@ -18,6 +18,7 @@ The [next] (morning), the [golden] (stag) {took} the (doe's) (place) at the (str
 A (sage) who {lived} in the (forest) {had} {seen} the (meeting) between the [golden] (stag) and the (doe). He {came} forward and {told} the (king), "You {are} [wrong] to {doubt} the [golden] (stag). Yesterday, a (doe) {came} to him with [her] [young] (fawn). It {was} [her] (turn) to {be} {hunted} today. If she {died}, so {would} [her] [little] [helpless] (fawn). [This] [golden] (stag) {promised} the (doe) [her] (safety). As he {could} not {ask} [another] (deer) to {take} [her] (place), he {has} {come} himself. He {is} indeed a [true] (king), {showing} [great] (care) for [his] (herd)."
 
 When the (king) {heard} [these] (words), he {was} [ashamed]. The [golden] (stag) {had} {put} a [little] (fawn's) (welfare) above [his] [own] (life). While he {had} {cared} [only] for [his] [own] (pleasure) and {killed} so [many] (deer). The (king) {vowed} never to {hunt} again as long as he {lived}.
+
 ---
 
 ## Parts of Speech Analysis
