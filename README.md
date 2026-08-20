@@ -1,9 +1,4 @@
 # <div align="center">The King and The Golden Stag</div>
-
-Here is the text with the requested formatting applied throughout the story:
-
-# The King and The Golden Stag
-
 `Many` `years` ago, a *large* `herd` of `deer` **lived** in a `forest`. The `king` of the `land` **was** *fond* of `hunting`, and *every* `day` he **hunted** and **killed** a *few* `deer`. *One* `day`, the `herd` **got** together to **think** of a `way` to **stop** the *unnecessary* `killing`. They **decided** that *each* `day` *one* `deer` **would** **present** itself for the `hunt` while the `others` **hid** themselves. The `king` **would** then **chase** and **kill** *only* *one* `deer`. *Every* `evening` they **would** **draw** `lots` to **choose** the `deer` to **be** **hunted**. In *this* `way`, *every* `deer` **had** a `chance` to **be** *safe* or to **be** **killed**.
 
 The *next* `morning` they **put** *their* `plan` to `work`. When the `king` and *his* `courtiers` **came** to the `forest`, they **found** *only* *one* `deer` near a `stream`. They **chased** and **killed** it. When they **looked** for *more* `deer`, they **could** not **find** *another*. At *last* they **went** back to the `palace`.
